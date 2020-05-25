@@ -23,7 +23,7 @@ MVPs being a quick way to get to market can create two issues: technical debt an
 The features are revisited (v2 and other iterations) technically or from experience perspective only when we have strong reasons to do so: research or data has pointed something out, there are technical outages, competition launches a dramatic improvement, someone points out usability flaws or bandwidth frees up.
 
 ```
-All this seems like a good plan but things rarely go as per plan.===
+All this seems like a good plan but things rarely go as per plan.
 ```
 When the feedback and urgent priorities come, they usually clash. Some products get preferential treatment while others languish. This leads to confusion, arguments, low morale, and backdoor lobbying. Not an ideal situation. Given this, it may be useful to ask one more question with the title of the post that is, when is the product done. When is it ok to leave a product left undone? (I want to shout — Never — but perhaps useful to dig deeper).
 
@@ -44,9 +44,9 @@ It may be useful to plot this:
 
 Let’s start with point B, the first goal post (refer diagram above).
 
-```
+<strong>
 In a nutshell, when exponential or dramatic bets are down, risky or plain delusional and you are about 90 percent of your originally stated goals, you’ve likely reached point B.
-```
+</strong>
 
 If you can’t invest in reaching even point B, then you should seriously question if we need that product. Here is a collection of criteria (from discussions with some product, engineering, and design leaders) that can indicate if you’ve reached point B. Here we go:
 
@@ -65,9 +65,9 @@ The ideal strategy to get to point B is dramatic and exponential bets via a dedi
 
 Post point B you get to the second milestone: point C. This is also perhaps the most interesting section of the above diagram is the 2nd phase (between points B and C).
 
-```
+<em>
 From point B to C, you have a lot of incremental effort for largely incremental and sometimes exponential returns i.e. a lot of iterations for relatively small improvements in product metrics and experience.
-```
+</em>
 
 The ideal strategy at this phase is small incremental progress via small experiments (example: Booking.com) — transitioning from 0–1 to 1-n mindset. This needs largely a non-matrix structure i.e. specialized teams. The number of stakeholders increases significantly. While experiments and steps may be small, the effort and number of teams involved may be high. For instance, past point B, you will need a lot of specialized folks to decide just the copy of the blurb that shows terms and conditions opt-in check-box to customers. Within that phase, as you progress, the improvement becomes harder. Why is that so? A lot more variables need to be analyzed and factored into consideration — hence, research and experiments are both slow.
 
@@ -75,9 +75,9 @@ The ideal strategy at this phase is small incremental progress via small experim
 
 While small incremental progress with sometimes big returns is one strategy, this is also the time to think of disruption (building your own Tiktok or iPhone before the competition does — this is Hard as the second phase can go on for a long time). A company that is trying this is Uber (they are not afraid to break their current moat of ride-hailing to venture into micro-mobility/ public transportation/ SuperApp). One could argue that they never really reached point B though esp on product-market-business fit.
 
-```
-Just because your product is moving slowly does not mean it has reached point B. It could very well be you, your imagination and your rigor as well as a misreading of the situation that calls for you to take a more adventurous strategy (redesign, retargeting, segmentation) than a more incremental strategy.
-```
+<strong>
+Just because your product is moving slowly does not mean it has reached point B. It could very well be you, your imagination and your rigor as well as a misreading of the situation that needs a more adventurous strategy (redesign, retargeting, segmentation) than an incremental strategy.
+</strong>
 
 After point C, you get to a declining phase. From C to D can be a gradual, slow decline that is sometimes not even noticed internally (noticed externally though, one classic sign — early adopters leaving). From point C to D, the product has a slow decline i.e. it still has a lot of usages (and market share/ profit). Some of the incremental experiments and work results in good progress as well. This does not mean zero work. On the contrary, this may mean a lot of work on maintenance, upgrades, integrations, net revenue. What makes this phase tricky is that as you cross point C for a customer segment, you could be entering point B for a new segment — new markets for instance. This is also not a point of no return and there is a chance for rejuvenation.
 
