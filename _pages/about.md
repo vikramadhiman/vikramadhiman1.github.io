@@ -11,19 +11,16 @@ comments: false
 <p><strong>Mid Career (2010-2018):</strong>I left Directi and Bombay to come back to Chandigarh to focus on family, health and a small eLearning startup. I worked with WizIQ from 2010-2013. In total, of a career of 16 years, I have spent 4.5 years at WizIQ across 2 stints. I helped build the courses business and product. There were months when we survived payroll to payroll but we came out strongly with a series B. In parallel, I spoke and organized plenty of agile events in Bangalore and NCR as well as helped companies w/ Scrum Transition as a freelance consultant. In 2013, joined MakeMyTrip for about a year, helping build Hotels Business and Product. In 2014, joined Bharti SoftBank - a company helping Airtel expand its app ecosystem. This was one of my favorite stints - small teams, great impact. I was the Product Manager for Airtel Money, myAirtel and briefly also helped Wynk. From analytics system to working with a large supplier network to managing large number of stakeholders to understanding India and Bharat and delivering delightful products in a record time - this stint afforded everything. I really loved this role. And, just as I had sunk teeth with back to back strong product and revenue growth on myAirtel, I was offered a role with Zeta - a Directi company. I just could not say no. I moved to Bangalore and what an amazing ride it was. The best engineering and design team of my career - serendipity galore every week. I worked on Corporate Benefits and Gifting products. From zero B2B customers to 200+ in less than a year, rapidly iterating on existing and new products, going on sales calls (and using them as research calls) and working with a great team. I spent 15 months at both Bharti SoftBank and Zeta but at both these places what we achieved was something that many take twice or thrice the time, if at all they manage that. Post Zeta, my health worsened and I tried two Delhi-based short stints at Hike (back again at a Bharti SoftBank company) and Sheroes. End of 2017, I decided to take a sabbatical to sort my physical and mental health.</p>
 <p><strong>Now (since 2018):</strong>I interviewed literally everywhere towards the end of 2017 and early 2018. I selected Gojek as the people and culture resonated well with me. And was I lucky or not. Gojek has surprised me with its depth and breath. I started off launching Singapore - a unique situation where you are discovering both internal and external product and product development process simultaneously. From talking to customers and drivers, to bringing back the first cross-functional team at Gojek to hustling to launch Alpha, Beta and Production. These 6 months are some of the most precious ones in my life. Post Singapore launch, I was assigned the responsibility to build the Transport Product and Product team. With an amazing bunch of engineers and PMs we have made substantial progress on user experience, product marketing, product positioning and engineering excellence. The journey is going strong and here's to more challenges! </p>
 
-<h4>Social Media Handles</h4>
-
-<p><a href="https://www.linkedin.com/in/vikrama/" target="_blank">Vikrama Dhiman on LinkedIn</a>!</p>
-<p><a href="https://twitter.com/vikramadhiuman/" target="_blank">Vikrama Dhiman on Twitter</a>!</p>
-
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Let's get connected!</h5>
 
-<p>If you liked this Jekyll theme, consider donating to the theme owner <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>I'd love to hear from you. Please reach out to one of my social handles:</p>
+<p><a href="https://www.linkedin.com/in/vikrama/" target="_blank">Vikrama Dhiman on LinkedIn</a>!</p>
+<p><a href="https://twitter.com/vikramadhiuman/" target="_blank">Vikrama Dhiman on Twitter</a>!</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
