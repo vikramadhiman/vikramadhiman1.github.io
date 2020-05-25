@@ -10,7 +10,7 @@ Most software engineers, product designers, and product managers have a strong d
 
 Let’s start with a common word in product development these days — MVP. Minimum VIABLE Product.
 
-<img src="assets/images/product-done-mvp.jpeg" alt="Minimum Viable Product" title="Minimum Viable Product" />
+<img src="/assets/images/product-done-mvp.jpeg" alt="Minimum Viable Product" title="Minimum Viable Product" />
 <em>via: <a href="idk.dev" target="_blank">idk.dev</a></em>
 
 None of the three words — minimum, viable, product — are quantifiable or easy agreed upon individually or when put together. The original intent of MVP was to ship a version of software to see if it can get any traction and get feedback to iterate and improve. The choice of the word ‘software’ is deliberate here. MVP is mostly used in software context and for good reasons too. In no other industry can we analyze and incorporate customer feedback this easily and this quickly.
@@ -40,7 +40,7 @@ While the answer from Facebook’s Product Design Director is simple and nuanced
 
 It may be useful to plot this:
 
-<img src="assets/images/product-done-diagram.png" alt="Product Development Diagram" title="Product Development Diagram" />
+<img src="https://vikramadhiman.github.io/assets/images/product-done-diagram.png" alt="Product Development Diagram" title="Product Development Diagram" />
 
 Let’s start with point B, the first goal post (refer diagram above).
 
@@ -71,7 +71,7 @@ From point B to C, you have a lot of incremental effort for largely incremental 
 
 The ideal strategy at this phase is small incremental progress via small experiments (example: Booking.com) — transitioning from 0–1 to 1-n mindset. This needs largely a non-matrix structure i.e. specialized teams. The number of stakeholders increases significantly. While experiments and steps may be small, the effort and number of teams involved may be high. For instance, past point B, you will need a lot of specialized folks to decide just the copy of the blurb that shows terms and conditions opt-in check-box to customers. Within that phase, as you progress, the improvement becomes harder. Why is that so? A lot more variables need to be analyzed and factored into consideration — hence, research and experiments are both slow.
 
-<img src="assets/images/product-done-stakeholders.png" alt="Product Management Stakeholders" title="Product Development Stakeholders" />
+<img src="{{ site.baseurl }}/assets/images/product-done-stakeholders.png" alt="Product Management Stakeholders" title="Product Development Stakeholders" />
 
 While small incremental progress with sometimes big returns is one strategy, this is also the time to think of disruption (building your own Tiktok or iPhone before the competition does — this is Hard as the second phase can go on for a long time). A company that is trying this is Uber (they are not afraid to break their current moat of ride-hailing to venture into micro-mobility/ public transportation/ SuperApp). One could argue that they never really reached point B though esp on product-market-business fit.
 
