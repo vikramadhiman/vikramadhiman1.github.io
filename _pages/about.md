@@ -19,10 +19,11 @@ comments: false
 <h5>Let's get connected!</h5>
 
 <p>I'd love to hear from you. Please reach out to one of my social handles:</p>
-<p><a href="https://www.linkedin.com/in/vikrama/" target="_blank">Vikrama Dhiman on LinkedIn</a>!</p>
-<p><a href="https://twitter.com/vikramadhiuman/" target="_blank">Vikrama Dhiman on Twitter</a>!</p>
+<p><a href="https://www.linkedin.com/in/vikrama/" target="_blank">LinkedIn | Vikrama Dhiman</a>!</p>
+<p><a href="https://twitter.com/vikramadhiuman/" target="_blank">Twitter | Vikrama Dhiman</a>!</p>
+<p><a href="https://agilediary.wordpress.com" target="_blank">Blog about Agile Coaching and Transition</a>!</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> 
 
 </div>
 </div>
