@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Product Development | When is a Product Done"
 author: vikramadhiman
@@ -9,18 +10,19 @@ Most software engineers, product designers, and product managers have a strong d
 
 Let’s start with a common word in product development these days — MVP. Minimum VIABLE Product.
 
-<img src="../assets/image/product-done-mvp.png" alt="Minimum Viable Product" title="Minimum Viable Product" />
+<img src="https://vikramadhiman.github.io/assets/image/product-done-mvp.png" alt="Minimum Viable Product" title="Minimum Viable Product" />
 <em>via: <a href="idk.dev" target="_blank">idk.dev</a></em>
 
 None of the three words — minimum, viable, product — are quantifiable or easy agreed upon individually or when put together. The original intent of MVP was to ship a version of software to see if it can get any traction and get feedback to iterate and improve. The choice of the word ‘software’ is deliberate here. MVP is mostly used in software context and for good reasons too. In no other industry can we analyze and incorporate customer feedback this easily and this quickly.
 
 ```
-MVPs were originally designed to combat knowledge scarcity but they are now also used as a strategy to counter people or patience scarcity.
+MVPs were originally designed to combat knowledge scarcity. 
+Now, they are now also used to counter people or patience scarcity.
 ```
 MVPs being a quick way to get to market can create two issues: technical debt and experience debt. One can argue that until you have paid all the technical debt and experience debt, the product is not complete. This means not stopping with MVP and doing v2, v3 of the product immediately after the MVP. However, this does not always happen for two reasons: there is something deemed more important to work on than iterating on the feature or we are waiting to get traction/ data/ research on the MVP so next iterations.
 The features are revisited (v2 and other iterations) technically or from experience perspective only when we have strong reasons to do so: research or data has pointed something out, there are technical outages, competition launches a dramatic improvement, someone points out usability flaws or bandwidth frees up.
 
-===All this seems like a good plan but things rarely go as per plan.===
++ ===All this seems like a good plan but things rarely go as per plan.===
 
 When the feedback and urgent priorities come, they usually clash. Some products get preferential treatment while others languish. This leads to confusion, arguments, low morale, and backdoor lobbying. Not an ideal situation. Given this, it may be useful to ask one more question with the title of the post that is, when is the product done. When is it ok to leave a product left undone? (I want to shout — Never — but perhaps useful to dig deeper).
 
