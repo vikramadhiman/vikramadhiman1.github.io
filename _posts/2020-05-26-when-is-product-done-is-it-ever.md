@@ -10,7 +10,7 @@ Most software engineers, product designers, and product managers have a strong d
 
 Let’s start with a common word in product development these days — MVP. Minimum VIABLE Product.
 
-<img src="https://vikramadhiman.github.io/assets/image/product-done-mvp.png" alt="Minimum Viable Product" title="Minimum Viable Product" />
+<img src="https://vikramadhiman.github.io/assets/image/product-done-mvp.jpeg" alt="Minimum Viable Product" title="Minimum Viable Product" />
 <em>via: <a href="idk.dev" target="_blank">idk.dev</a></em>
 
 None of the three words — minimum, viable, product — are quantifiable or easy agreed upon individually or when put together. The original intent of MVP was to ship a version of software to see if it can get any traction and get feedback to iterate and improve. The choice of the word ‘software’ is deliberate here. MVP is mostly used in software context and for good reasons too. In no other industry can we analyze and incorporate customer feedback this easily and this quickly.
