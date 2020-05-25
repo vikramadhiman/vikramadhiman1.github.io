@@ -10,7 +10,7 @@ Most software engineers, product designers, and product managers have a strong d
 
 Let’s start with a common word in product development these days — MVP. Minimum VIABLE Product.
 
-<img src="https://vikramadhiman.github.io/assets/image/product-done-mvp.jpeg" alt="Minimum Viable Product" title="Minimum Viable Product" />
+<img src="assets/images/product-done-mvp.jpeg" alt="Minimum Viable Product" title="Minimum Viable Product" />
 <em>via: <a href="idk.dev" target="_blank">idk.dev</a></em>
 
 None of the three words — minimum, viable, product — are quantifiable or easy agreed upon individually or when put together. The original intent of MVP was to ship a version of software to see if it can get any traction and get feedback to iterate and improve. The choice of the word ‘software’ is deliberate here. MVP is mostly used in software context and for good reasons too. In no other industry can we analyze and incorporate customer feedback this easily and this quickly.
@@ -22,8 +22,9 @@ Now, they are now also used to counter people or patience scarcity.
 MVPs being a quick way to get to market can create two issues: technical debt and experience debt. One can argue that until you have paid all the technical debt and experience debt, the product is not complete. This means not stopping with MVP and doing v2, v3 of the product immediately after the MVP. However, this does not always happen for two reasons: there is something deemed more important to work on than iterating on the feature or we are waiting to get traction/ data/ research on the MVP so next iterations.
 The features are revisited (v2 and other iterations) technically or from experience perspective only when we have strong reasons to do so: research or data has pointed something out, there are technical outages, competition launches a dramatic improvement, someone points out usability flaws or bandwidth frees up.
 
-+ ===All this seems like a good plan but things rarely go as per plan.===
-
+```
+All this seems like a good plan but things rarely go as per plan.===
+```
 When the feedback and urgent priorities come, they usually clash. Some products get preferential treatment while others languish. This leads to confusion, arguments, low morale, and backdoor lobbying. Not an ideal situation. Given this, it may be useful to ask one more question with the title of the post that is, when is the product done. When is it ok to leave a product left undone? (I want to shout — Never — but perhaps useful to dig deeper).
 
 It is perhaps important to define what do we mean by ‘product’ here. Product in this post means both, features as well as a collection of features (eg: emergency assistance as well as safety toolkit containing emergency assistance).
@@ -35,11 +36,11 @@ It is perhaps important to define what do we mean by ‘product’ here. Product
 
 While the answer from Facebook’s Product Design Director is simple and nuanced — it does not give practical advice. There is plenty of advice going around though — from taking all the time you need to make a quality product (like the recent <a href="https://medium.com/the-year-of-the-looking-glass/how-to-make-things-high-quality-f466f875227d" target="_blank">TTBQT</a>one from Julie Zhuo) to <a href="https://twitter.com/naval/status/1158964119023652864" target="_blank">shipping speed being paramount</a> to <a href="https://www.amazon.in/Planning-Extreme-Programming-Kent-Beck/dp/0201710919/ref=sr_1_fkmr0_1?keywords=martin+fowler+xp+exp%3Bained&qid=1565360344&s=books&sr=1-1-fkmr0" target="_blank">ship at a regular cadence</a> and improve. There are other examples of products being extremely frugal in experience improvements like say a Google home page adding just a Search button and a copyright text being enough to make it <a href="https://www.huffingtonpost.in/2012/03/27/google-design-sergey-brin_n_1384074.html" target="_blank">complete</a> (a true MVP even before the term was made popular). In another case, Facebook newsfeed went from good to great to bloatware as they continued to iterate. On the other hand, Tiktok took the LIVE video feature from social media apps (including the one in FB) and added a killer automatic swipe discovery (a bit like stories) to make it a truly usable product for a section of the audience. New features don’t necessarily corrupt. Smartphones have added cameras and machine learning to increase the quality of photos significantly.
 
-===All of the above examples show that different iterations produce dramatically different results. So, when to iterate and when not to?===
+<em>All of the above examples show that different iterations produce dramatically different results. So, when to iterate and when not to?</em>
 
-Keeping these examples (and based on discussions with a bunch of folks on some others), it may be useful to plot this as follows.
+It may be useful to plot this:
 
-<img src="assets/image/product-done-diagram.png" alt="Product Development Diagram" title="Product Development Diagram" />
+<img src="assets/images/product-done-diagram.png" alt="Product Development Diagram" title="Product Development Diagram" />
 
 Let’s start with point B, the first goal post (refer diagram above).
 
@@ -70,7 +71,7 @@ From point B to C, you have a lot of incremental effort for largely incremental 
 
 The ideal strategy at this phase is small incremental progress via small experiments (example: Booking.com) — transitioning from 0–1 to 1-n mindset. This needs largely a non-matrix structure i.e. specialized teams. The number of stakeholders increases significantly. While experiments and steps may be small, the effort and number of teams involved may be high. For instance, past point B, you will need a lot of specialized folks to decide just the copy of the blurb that shows terms and conditions opt-in check-box to customers. Within that phase, as you progress, the improvement becomes harder. Why is that so? A lot more variables need to be analyzed and factored into consideration — hence, research and experiments are both slow.
 
-<img src="assets/image/product-done-stakeholders.png" alt="Product Management Stakeholders" title="Product Development Stakeholders" />
+<img src="assets/images/product-done-stakeholders.png" alt="Product Management Stakeholders" title="Product Development Stakeholders" />
 
 While small incremental progress with sometimes big returns is one strategy, this is also the time to think of disruption (building your own Tiktok or iPhone before the competition does — this is Hard as the second phase can go on for a long time). A company that is trying this is Uber (they are not afraid to break their current moat of ride-hailing to venture into micro-mobility/ public transportation/ SuperApp). One could argue that they never really reached point B though esp on product-market-business fit.
 
