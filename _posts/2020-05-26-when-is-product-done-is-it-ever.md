@@ -2,9 +2,8 @@ layout: post
 title:  "Product Development | When is a Product Done"
 author: sal
 categories: [ Product Management, Product Development ]
-image: assets/images/product-done.jpg
+image: assets/images/product-done.png
 featured: true
-published: true
 ---
 Most software engineers, product designers, and product managers have a strong desire to iterate to perfection, often clashing with other obvious benefits like urgent business priorities like a new product line. Questions on the lines of are we prioritizing correctly, should we block time to spend on improvements, if we are doing too many things and if we are leaving products in an unfinished state, start being asked. Sometimes, you’ll be asked (like the title of this post): <strong>When is a Product Done?</strong>
 
