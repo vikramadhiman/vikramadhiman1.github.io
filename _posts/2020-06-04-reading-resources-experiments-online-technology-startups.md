@@ -4,7 +4,7 @@ title:  "Experiments at Scale | Reading Resources"
 author: vikramadhiman
 categories: [ Resources ]
 image: assets/images/online-experiments.jpg
-featured: true
+featured: false
 comments: true
 ---
 I created this page to compile good resources I come across for Experimentation - infra, analysis, speed, culture and more. I hope it is useful for you too. 
