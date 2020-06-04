@@ -5,14 +5,18 @@ author: vikramadhiman
 categories: [ Resources ]
 image: assets/images/online-experiments.jpg
 featured: true
+comments: true
 ---
+I created this page to compile good resources I come across for Experimentation - infra, analysis, speed, culture and more. I hope it is useful for you too. 
+
+I have tried to categorize the videos, podcasts, articles and papers according to how I saw these resources. 
+
 <strong>Experimentation @ Scale</strong>
 <p>
 	<a href="https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d" target="_blank">How Booking.com increases the power of online experiments with CUPED</a>
 	<a href="https://blog.usejournal.com/how-booking-com-a-b-tests-ten-novenonagintillion-versions-of-its-site-25fc3a9e875b" target="_blank">How Booking.com A/B Tests Ten Novenonagintillion Versions of its Site</a>
 	<a href="https://www.datacamp.com/community/blog/online-experiments-booking-transcript" target="_blank">Online Experiments at Booking.com - Podcast with Transcript</a>
-	<a href="https://www.youtube.com/watch?time_continue=1&v=_sx5LV23hIE&feature=emb_logo" target="_blank">Democratising Online Controlled Experiments at Booking.com by Lukas Vermeer - Video at Google Conversions 2017</a>
-
+	<a href="https://facebook.github.io/planout/" target="_blank">Plan Out - A Framework for Online Field Experiments</a>
 </p>
 
 <strong>Culture of Experimentation</strong>
@@ -21,17 +25,24 @@ featured: true
 	<a href="https://partner.booking.com/en-gb/click-magazine/role-experimentation-bookingcom" target="_blank">The Role of Experimentations at Booking.com</a>
 	<a href="" target="_blank"></a>
 	<a href="https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb" target="_blank">Experiments at AirBnB</a>
+	<a href="https://www.youtube.com/watch?time_continue=1&v=_sx5LV23hIE&feature=emb_logo" target="_blank">Democratising Online Controlled Experiments at Booking.com by Lukas Vermeer - Video at Google Conversions 2017</a>
+	<a href="https://www.youtube.com/watch?v=AJX4W3MwKzU" target="_blank">Stanford Seminar: Peeking at A/B Tests - Why It Matters and What to Do About It (Video - ~1 hour)</a>
 </p>
 
-<strong>A/B Tests and Advanced Experimentation</strong>
+<strong>Advanced Experimentation (Technical)</strong>
 <p>
-	<a href="https://booking.design/a-b-testing-concept-execution-b37bf4d744d" target="_blank">A/B Tests - What to test, Ideas</a>
 	<a href="https://research.fb.com/blog/2018/09/efficient-tuning-of-online-systems-using-bayesian-optimization/" target="_blank">Bayesian optimization for A/B testing</a>
 	<a href="https://research.fb.com/publications/constrained-bayesian-optimization-with-noisy-experiments/" target="_blank">Constrained Bayesian Optimization with Noisy Experiments</a>
 	<a href="https://neilpatel.com/blog/how-airbnb-uses-data-science/" target="_blank">How Airbnb Uses Data Science to Improve Their Product and Marketing</a>
+	<a href="https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36500.pdf" target="_blank">Overlapping Experiment Infrastructure: More, Better, Faster Experimentation</a>
+	<a href="https://ai.stanford.edu/~ronnyk/2009controlledExperimentsOnTheWebSurvey.pdf" target="_blank">Controlled experiments on the web: survey and practical guide</a>
+	<a href="https://www.researchgate.net/profile/Aleksander_Fabijan/publication/324889185_The_Anatomy_of_a_Large-Scale_Online_Experimentation_Platform/links/5ae96411a6fdcc03cd8fa431/The-Anatomy-of-a-Large-Scale-Online-Experimentation-Platform.pdf" target="_blank">The Anatomy of a Large-Scale Online Experimentation Platform</a>
+	<a href="https://eng.uber.com/experimentation-platform/" target="_blank">Building an Intelligent Experimentation Platform with Uber Engineering</a>
+	<a href="https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15" target="_blank">It’s All A/Bout Testing: The Netflix Experimentation Platform</a>
 </p>
 
-<strong>Experimentation Infrastructure</strong>
+
+<strong>Resources by other people</strong>
 <p>
-	<a href="https://facebook.github.io/planout/" target="_blank">Plan Out - A Framework for Online Field Experiments</a>
+	<a href="https://github.com/ukriish/shelf#experimentation---ab-testing" target="_blank">Online Experiments - resources by Unnikrishnan</a>
 </p>
