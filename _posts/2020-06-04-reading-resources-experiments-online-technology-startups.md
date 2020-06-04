@@ -25,7 +25,6 @@ I have tried to categorize the videos, podcasts, articles and papers according t
 	<li><a href="https://partner.booking.com/en-gb/click-magazine/role-experimentation-bookingcom" target="_blank">The Role of Experimentations at Booking.com</a></li>
 	<li><a href="https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7#.miqyczkzb" target="_blank">Experiments at AirBnB</a></li>
 	<li><a href="https://www.youtube.com/watch?time_continue=1&v=_sx5LV23hIE&feature=emb_logo" target="_blank">Democratising Online Controlled Experiments at Booking.com by Lukas Vermeer - Video at Google Conversions 2017</a></li>
-	<li><a href="https://www.youtube.com/watch?v=AJX4W3MwKzU" target="_blank">Stanford Seminar: Peeking at A/B Tests - Why It Matters and What to Do About It (Video - ~1 hour)</a></li>
 </ul>
 
 <strong>Advanced Experimentation (Technical)</strong>
@@ -38,6 +37,7 @@ I have tried to categorize the videos, podcasts, articles and papers according t
 	<li><a href="https://www.researchgate.net/profile/Aleksander_Fabijan/publication/324889185_The_Anatomy_of_a_Large-Scale_Online_Experimentation_Platform/links/5ae96411a6fdcc03cd8fa431/The-Anatomy-of-a-Large-Scale-Online-Experimentation-Platform.pdf" target="_blank">The Anatomy of a Large-Scale Online Experimentation Platform</a></li>
 	<li><a href="https://eng.uber.com/experimentation-platform/" target="_blank">Building an Intelligent Experimentation Platform with Uber Engineering</a></li>
 	<li><a href="https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15" target="_blank">It’s All A/Bout Testing: The Netflix Experimentation Platform</a></li>
+	<li><a href="https://www.youtube.com/watch?v=AJX4W3MwKzU" target="_blank">Stanford Seminar: Peeking at A/B Tests - Why It Matters and What to Do About It (Video - ~1 hour)</a></li>
 </ul>
 
 
