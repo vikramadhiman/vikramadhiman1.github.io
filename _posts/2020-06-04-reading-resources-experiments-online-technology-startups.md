@@ -17,7 +17,7 @@ I have tried to categorize the videos, podcasts, articles and papers according t
 	<li><a href="https://blog.usejournal.com/how-booking-com-a-b-tests-ten-novenonagintillion-versions-of-its-site-25fc3a9e875b" target="_blank">How Booking.com A/B Tests Ten Novenonagintillion Versions of its Site</a></li>
 	<li><a href="https://www.datacamp.com/community/blog/online-experiments-booking-transcript" target="_blank">Online Experiments at Booking.com - Podcast with Transcript</a></li>
 	<li><a href="https://facebook.github.io/planout/" target="_blank">Plan Out - A Framework for Online Field Experiments</a></li>
-	<li><a href="https://www.youtube.com/watch?v=Iw40wdwkkLA" target="_blank">Facebook's A B Platform Interactive Analysis in Realtime - @Scale 2014 - Data (Video)</li>
+	<li><a href="https://www.youtube.com/watch?v=Iw40wdwkkLA" target="_blank">Facebook's A B Platform Interactive Analysis in Realtime - @Scale 2014 - Data (Video)</a></li>
 </ul>
 
 <strong>Culture of Experimentation</strong>
