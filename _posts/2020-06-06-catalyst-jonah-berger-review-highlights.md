@@ -16,7 +16,7 @@ The spark moment in Jonah Berger's latest book <a href="https://jonahberger.com/
 The author summarized the entire book in the finale as well with a few diagrams. The key one I have produced below (coz bunch of it is already been mentioned in authors talks) already. 
 
 <p>
-	<img src="/assets/images/posts/reduce-framework.jpg" title="REDUCE FRAMEWORK" alt="REDUCE FRAMEWORK" />
+	<img src="/assets/images/posts/reduce-framework.jpeg" title="REDUCE FRAMEWORK" alt="REDUCE FRAMEWORK" />
 </p>
 
 That's the book for you really if you feel that just picking up a catchy framework is enough. There's more to the book obviously as I've cited in my opening paragraph. 
@@ -26,10 +26,6 @@ The quotes from the book that stayed with me include:
 <ul>
 <li>
 	Because rather than asking what might convince someone to change, catalysts start with a more basic question: Why hasn’t that person changed already? What is blocking them?
-</li>
-
-<li>
-	An industry that spent almost $10 billion a year marketing its products and in which leading companies individually had profits larger than Coca-Cola, Microsoft, and McDonald’s. Combined. Chuck’s goal? To do something dozens of organizations had failed at for decades: to get teens to stop smoking.
 </li>
 
 <li>
@@ -46,14 +42,6 @@ The quotes from the book that stayed with me include:
 
 <li>
 	But while the MBAs spend a lot of time thinking about the potential dangers of making a change, they tend to spend less time thinking about something equally important: The risks of doing nothing.
-</li>
-
-<li>
-	Three ways to mitigate distance are to (1) find the movable middle, (2) ask for less, and (3) switch the field to find an unsticking point.
-</li>
-
-<li>
-	The question, then, is how to reduce uncertainty by lowering the barrier to trial. Four key ways to do that are to (1) harness freemium, (2) reduce up-front costs, (3) drive discovery, and (4) make it reversible.
 </li>
 
 <li>
