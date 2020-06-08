@@ -3,7 +3,7 @@ layout: post
 title:  "The Peter Principle by Laurence J. Peter | Review by Vikrama Dhiman"
 author: vikramadhiman
 categories: [ Book Reviews, Influence ]
-image: assets/images/posts/the-peter-principle.jpg
+image: assets/images/posts/peter-principle.jpg
 featured: false
 comments: true
 ---
@@ -15,7 +15,7 @@ The book was written way back in 1960s. It is still very relevant. It did not sp
 
 If you are a mid-career or a senior-career level professional, I highly recommend that you read this book.
 
-<img src="/assets/images/posts/the-peter-principle-2.jpg" title="The Peter Principle"/>
+<img src="/assets/images/posts/the-peter-principle-3.jpg" title="The Peter Principle"/>
 
 The quotes from the book that stayed with me include:
 
