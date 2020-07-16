@@ -1,7 +1,62 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
-exclude: [path]
+# Site
+name: "Vikrama Dhiman | product manager | agile coach | avid reader"
+title: "Vikrama Dhiman's Blog"
+description: "I have been building internet products and transitioning teams to an agile way of working for the last 16 years. I write about technology products, product management, startups, lifestyle and books."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: https://vikramadhiman.github.io
+google_analytics: 'UA-167500350-1'
+disqus: 'vikramadhiman'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  vikramadhiman:
+    name: Vikrama Dhiman
+    display_name: Vikrama Dhiman
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: vickydhiman at yahoo dot com
+    web: https://vikramadhiman.com
+    twitter: https://twitter.com/vikramadhiman
+   
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
