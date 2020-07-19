@@ -1,7 +1,7 @@
 # Site
 name: "Vikrama Dhiman | product manager | agile coach | avid reader"
 title: "Vikrama Dhiman's Blog"
-description: "I have been building internet products and transitioning teams to an agile way of working for the last 16 years. I write about technology products, product management, startups, lifestyle and books."
+description: "I write about technology products, product management, startups, lifestyle trends and books. <a target = “_blank” href=“http://twitter.com/vikramadhiman” class=“btn follow”>Follow</a>"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://vikramadhiman.github.io
