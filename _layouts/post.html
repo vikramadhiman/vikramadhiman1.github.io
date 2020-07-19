@@ -18,6 +18,15 @@ post_class: post-template
         <!-- Post -->
         <!-- {% assign author = site.authors[page.author] %} -->
 
+        <!-- Author Brief Snapshot
+            ================================================== -->
+            <div class="mainheading">
+                <h2 class="sitetitle">{{ site.short-name }} <a href="https://twitter.com/vikramadhiman?ref_src=twsrc%5Etfw" class="twitter-follow-button">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></h2>
+                <p class="lead">
+                    {{ site.description }}
+                </p>
+            </div>
+
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
 
@@ -39,14 +48,7 @@ post_class: post-template
                 </div>
                 {% endif %}
             -->
-            <!-- Author Brief Snapshot
-            ================================================== -->
-            <div class="mainheading">
-                <h2 class="sitetitle">{{ site.name }}</h2>
-                <p class="lead">
-                    {{ site.description }}
-                </p>
-            </div>
+            
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
 
@@ -85,6 +87,7 @@ post_class: post-template
                 <!-- End Toc -->
                 {{content}}
             </div>
+           
 
             <!-- Rating -->
             {% if page.rating %}
