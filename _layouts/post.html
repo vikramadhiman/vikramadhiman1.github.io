@@ -12,6 +12,15 @@ post_class: post-template
 
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
+
+            <!-- Author Brief Snapshot
+            ================================================== --->
+                <p class="lead">{{ site.short-name }} </p>
+                <p class="lead">
+                    {{ site.description }}
+                </p>
+
+
             {% include share.html %}
         </div>
 
@@ -40,14 +49,13 @@ post_class: post-template
                 {% endif %}
             -->
             
-        <!-- Author Brief Snapshot
-            ================================================== --->
-                <p class="lead">{{ site.short-name }} <a href="https://twitter.com/vikramadhiman?ref_src=twsrc%5Etfw" class="twitter-follow-button">Follow</a>
-                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-                <p class="lead">
-                    {{ site.description }}
-                </p>
+             <!-- Follow author code -->
 
+            <p>
+                <a href="https://twitter.com/vikramadhiman?ref_src=twsrc%5Etfw" class="twitter-follow-button">Follow</a>
+                    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </p>
+        
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
 
