@@ -6,6 +6,7 @@ description: "I write about technology products, product management, startups, l
 description-left: "My name is Vikrama Dhiman. I lead Mobility Products @ Gojek. Previously, I led product teams at Bharti SoftBank (Airtel Money, myAirtel, Wynk), Directi (BigRock), Zeta (Corporate Benefits and Gifting), WizIQ (eLearning) and MakeMyTrip (Travel/ Hotels). I was an Agile Coach with Cisco, Yodlee, Sapient, HP & Classmates.com. I am an avid reader." 
 favicon: 'assets/images/logo.png'
 logo: 'assets/images/logo.png'
+author-image: 'assets/images/vikramadhiman.jpg'
 baseurl: https://vikramadhiman.github.io
 google_analytics: 'UA-167500350-1'
 disqus: 'vikramadhiman'
