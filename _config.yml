@@ -3,7 +3,7 @@ name: "Vikrama Dhiman | product manager | agile coach | avid reader"
 short-name: "Vikrama Dhiman"
 title: "Vikrama Dhiman's Blog"
 description: "I write about technology products, product management, startups, lifestyle trends and books."
-description-left: "My name is Vikrama Dhiman. I lead Mobility Products @ Gojek. Previously, I led product teams at Bharti SoftBank (Airtel Money, myAirtel, Wynk), MakeMyTrip, Directi (BigRock), Zeta (Corporate Benefits and Gifting) and WizIQ. I have been an Agile Coach with Cisco, Yodlee, Sapient Nitro, HP and Classmates.com. I am an avid reader. I write about technology products, product management, startups, lifestyle trends and books." 
+description-left: "My name is Vikrama Dhiman. I lead Mobility Products @ Gojek. Previously, I led product teams at Bharti SoftBank (Airtel Money, myAirtel, Wynk), MakeMyTrip, Directi (BigRock), Zeta (Corporate Benefits and Gifting) and WizIQ. I have been an Agile Coach with Cisco, Yodlee, Sapient Nitro, HP and Classmates.com. I am an avid reader. <br /> I write about technology products, product management, startups, lifestyle trends and books." 
 favicon: 'assets/images/logo.png'
 baseurl: https://vikramadhiman.github.io
 google_analytics: 'UA-167500350-1'
