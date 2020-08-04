@@ -11,7 +11,7 @@ comments: true
 
 I got this book as a Kindle app recommendation and let's just say Amazon is very good with recommendations. They know exactly what to recommend after reading what (or after reading series of what). This book came at the right time and I clicked 'Buy Now'. The expectations were low and this may be one reason why I <a href="https://www.goodreads.com/review/show/3476094429" target="_blank">rated 'The Motivation Myth' 4 stars on Goodreads</a>. Or, perhaps the book is indeed very good. The chapters on process and plans were very good. And overall, there were several take aways from the book (I made a 102 highlights).
 
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500772971l/35783582._SY475_.jpg" alt = "the motivation myth" title="the motivation myth" />
+<p align="center"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500772971l/35783582._SY475_.jpg" alt = "the motivation myth" title="the motivation myth"></p>
 
 Below are some of my notes and takeaways. These also include excerpts from the book.
 
