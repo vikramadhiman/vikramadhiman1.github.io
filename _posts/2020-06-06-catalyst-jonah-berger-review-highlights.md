@@ -2,7 +2,7 @@
 layout: post
 title:  "The Catalyst by Jonah Berger | Review by Vikrama Dhiman"
 author: vikramadhiman
-categories: [ Book Reviews, Influence ]
+categories: [ Books, Influence, Book Reviews ]
 image: assets/images/posts/the-catalyst.jpg
 featured: false
 comments: true

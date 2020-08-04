@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Summary | The Motivation Myth: How High Achievers Really Set Themselves Up to Win"
 author: vikramadhiman
-categories: [ Books ]
+categories: [ Books, Book Summaries ]
 image: assets/images/posts/motivation.jpg
 featured: false
 comments: true

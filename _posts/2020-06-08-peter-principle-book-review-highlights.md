@@ -2,7 +2,7 @@
 layout: post
 title:  "The Peter Principle by Laurence J. Peter | Review by Vikrama Dhiman"
 author: vikramadhiman
-categories: [ Book Reviews, Influence ]
+categories: [ Books, Book Reviews, Influence ]
 image: assets/images/posts/peter-principle.jpg
 featured: false
 comments: true
