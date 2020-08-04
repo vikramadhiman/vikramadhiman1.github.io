@@ -7,11 +7,11 @@ image: assets/images/posts/motivation.jpg
 featured: false
 comments: true
 ---
-The blurb of this book by Jeff Haden was intriguing. It went like this:
+"From Inc.com's most popular columnist, a counterintuitive--but highly practical--guide to finding and maintaining the motivation to achieve great things." With a blurb like that, this book by Jeff Haden seemed very intriguing. However, there are several books where the blurbs are really exciting. Also, I hadn't heard of the author. I wasn't sure whether this book would be any good. 
 
-"From Inc.com's most popular columnist, a counterintuitive--but highly practical--guide to finding and maintaining the motivation to achieve great things."
+I got this book as a Kindle app recommendation and let's just say Amazon is very good with recommendations. They know exactly what to recommend after reading what (or after reading series of what). This book came at the right time and I clicked 'Buy Now'. The expectations were low and this may be one reason why I <a href="https://www.goodreads.com/review/show/3476094429" target="_blank">rated 'The Motivation Myth' 4 stars on Goodreads</a>. Or, perhaps the book is indeed very good. The chapters on process and plans were very good. And overall, there were several take aways from the book (I made a 102 highlights).
 
-However, there are several books where the blurbs are really exciting. Also, I hadn't heard of the author. I got this book as a Kindle app recommendation and let's just say Amazon is very good with recommendations. They know exactly what to recommend after reading what (or after reading series of what). This book came at the right time and I clicked 'Buy Now'. The expectations were low and this may be one reason why I <a href="https://www.goodreads.com/review/show/3476094429" target="_blank">rated 'The Motivation Myth' 4 stars on Goodreads</a>. Or, perhaps the book is indeed very good. The chapters on process and plans were very good. And overall, there were several take aways from the book (I made a 102 highlights).
+<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500772971l/35783582._SY475_.jpg" alt = "the motivation myth" title="the motivation myth" />
 
 Below are some of my notes and takeaways. These also include excerpts from the book.
 
