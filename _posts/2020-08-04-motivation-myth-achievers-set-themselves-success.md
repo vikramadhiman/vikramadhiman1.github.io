@@ -37,3 +37,5 @@ The next part of the book covered details of the process and some pretty neat ad
 
 I highly recommend this book to gain a deeper understanding of how motivation cycle really works. I do think the lessons would stay with me. 
 
+Here is another blog post that I really liked as a <a href="https://medium.com/@sarahcy/motivation-is-overrated-the-motivation-myth-by-jeff-haden-98df2623dcdd">book summary for the motivation myth</a>.
+
