@@ -58,9 +58,9 @@ post_class: post-template
         <!-- twitter shares -->
         <meta itemprop="twitter:image" content="{{ post:image }}" />
         <meta itemprop="twitter:title" content="{{ post:title }}" />
-        <!-- time modified -->
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+        <!-- time modified and image -->
         <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
+        <meta itemprop="image" content="{{ author.image }}" />
     </p>
 
 
