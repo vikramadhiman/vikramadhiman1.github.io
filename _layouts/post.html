@@ -18,7 +18,6 @@ post_class: post-template
     
     <!--
     <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
         <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
@@ -55,7 +54,7 @@ post_class: post-template
 
     </p>
     -->
-
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
         <meta itemprop="twitter:image" content="{{ post:image }}" />
         <meta itemprop="twitter:title" content="{{ post:title }}" />
