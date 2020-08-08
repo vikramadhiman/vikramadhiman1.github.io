@@ -6,6 +6,7 @@ categories: [ Books, Book Reviews ]
 image: assets/images/posts/gut.jpeg
 featured: false
 comments: true
+date: "2020-08-06 18:08:41 +0530"
 ---
 The book has secrets of studying smart, and not just six - there are several. Some of those secrets are well known (like studying Math by reading it is like learning swimming by watching YouTube videos, concentrate on some keywords in objective tests), others were not so obvious to me (not giving away the secrets here - pick the damn book). Luckily, the author gives you interesting acronyms to remember the secret (I particularly liked the Chennai Police ATE Ice-cream).
 
