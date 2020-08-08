@@ -6,7 +6,7 @@ categories: [ Books, Book Reviews, Product Strategy, Product Management ]
 image: assets/images/posts/strategize.png
 featured: false
 comments: true
-date: "2020-08-06 18:08:41 +0530"
+date: "2020-08-08 21:00:00 +0530"
 ---
 As Peter Drucker writes in his book Innovation and Entrepreneurship, "The best, and perhaps the only, way to avoid killing off the new…is to set up the innovative project from the start as a separate business" (1985, 163).
 

@@ -6,7 +6,7 @@ categories: [ Books, Book Reviews ]
 image: assets/images/posts/gut.jpeg
 featured: false
 comments: true
-date: "2020-08-06 18:08:41 +0530"
+date: "2020-08-07 18:08:41 +0530"
 ---
 The book has secrets of studying smart, and not just six - there are several. Some of those secrets are well known (like studying Math by reading it is like learning swimming by watching YouTube videos, concentrate on some keywords in objective tests), others were not so obvious to me (not giving away the secrets here - pick the damn book). Luckily, the author gives you interesting acronyms to remember the secret (I particularly liked the Chennai Police ATE Ice-cream).
 
@@ -18,9 +18,9 @@ What I really liked about the book was the story-telling format of the book. The
 The book could have obviously gone deep into psychology and neurology to make it a more academic book. However, I think that would have ruined the book of its crispness. Maybe, the author could write a more "academic well-researched" follow-up for those who need an academic text.
 Overall, I really liked the I loved the book. My favorite technique and takeaway are not the environment you study in and the 2-chair technique. I am going to definitely employ them in 2018. I can't recommend the book enough - whether or not you are a star student.
 
-<strong>Rating I gave on Goodreads: 5/5</strong>
-<strong>How did I read this book: Kindle</strong>
-<strong>How long did it take to finish to book: 3 and a half hours, in 2 sittings</strong>
+<strong>Rating I gave on Goodreads: <em>5/5</em></strong>
+<strong>How did I read this book: <em>Kindle</em></strong>
+<strong>How long did it take to finish to book: <em> and a half hours, in 2 sittings</em></strong>
 	
 Some of my favorite excerpts and quotes:
 <ul>
