@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Six Secrets Smart Students Don't Tell You by Chandan Deshmukh | Book Review & Summary"
+title:  "Give and Take - Why Helping Others Boosts our Success | Book Review & Summary"
 author: vikramadhiman
 categories: [ Books, Book Reviews ]
 image: https://m.media-amazon.com/images/I/41t8M3g0BkL.jpg
