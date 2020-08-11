@@ -39,7 +39,7 @@ Overall the book has tonnes of insights and life advice. There is a lot that I a
 
 <strong>Rating I gave on Goodreads: <em>5/5</em></strong>
 <strong>How did I read this book: <em>Kindle</em></strong>
-<strong>How long did it take to finish to book: <em> and a half hours, in 2 sittings</em></strong>
+<strong>How long did it take to finish to book: <em>4 and a half hours, in multiple sittings over 4 days</em></strong>
 	
 Some of my favorite excerpts and quotes (full highlights <a href="https://www.goodreads.com/notes/19184641-give-and-take/63027503-vikrama-dhiman?page=4&ref=bsop" alt="quotes from Give and Take" title="quotes from Give and Take">here</a>:
 <ul>

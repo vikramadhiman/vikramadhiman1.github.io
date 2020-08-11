@@ -20,7 +20,7 @@ Overall, I really liked the I loved the book. My favorite technique and takeaway
 
 <strong>Rating I gave on Goodreads: <em>5/5</em></strong>
 <strong>How did I read this book: <em>Kindle</em></strong>
-<strong>How long did it take to finish to book: <em> and a half hours, in 2 sittings</em></strong>
+<strong>How long did it take to finish to book: <em>3 and a half hours, in 3 sittings</em></strong>
 	
 Some of my favorite excerpts and quotes:
 <ul>
