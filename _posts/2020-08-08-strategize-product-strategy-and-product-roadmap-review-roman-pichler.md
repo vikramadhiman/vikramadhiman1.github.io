@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strategize: Product Strategy and Product Roadmap Practices for the Digital Age, by Roman Pichler | Book Review"
+title:  "Strategize: Product Strategy and Product Roadmap Practices, by Roman Pichler | Book Review"
 author: vikramadhiman
 categories: [ Books, Book Reviews, Product Strategy, Product Management ]
 image: assets/images/posts/strategize.png
