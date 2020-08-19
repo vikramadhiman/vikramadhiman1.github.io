@@ -7,6 +7,7 @@ description-left: "My name is Vikrama Dhiman. I lead Mobility Products @ Gojek. 
 favicon: 'assets/images/logo.png'
 logo: 'assets/images/logo.png'
 author-image: 'assets/images/vikramadhiman.jpg'
+url: https://www.vikramadhiman.com
 baseurl: https://www.vikramadhiman.com
 google_analytics: 'UA-167500350-1'
 disqus: 'vikramadhiman'
@@ -30,7 +31,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-archives
-  ## - jekyll-seo-tag
+  - jekyll-seo-tag
+
+jekyll-seo-tag: "disabled"
     
 # Archives
 jekyll-archives:
