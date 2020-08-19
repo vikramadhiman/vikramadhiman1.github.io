@@ -57,8 +57,8 @@
     -->
     <!--<p class="post-meta">-->
         <!-- twitter shares -->
-        <meta itemprop="twitter:image" content="{{ post:image }}" />
-        <meta itemprop="twitter:title" content="{{ post:title }}" />
+        <meta itemprop="twitter:image" content="{{ post.image }}" />
+        <meta itemprop="twitter:title" content="{{ post.title }}" />
         <!-- time modified and image -->
         <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
         <meta itemprop="image" content="{{ author.image }}" />
