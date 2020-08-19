@@ -62,8 +62,8 @@
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="{{ modified | date_to_xmlschema }}" />
         <!-- twitter shares default-post.html  -->
-        <meta itemprop="twitter:image" content="{{site.baseurl}}/{{ page.image }}" />
-        <meta itemprop="twitter:title" content="{{ page.title }}" />
+        <meta name="twitter:image" content="{{site.baseurl}}/{{ page.image }}" />
+        <meta name="twitter:title" content="{{ page.title }}" />
         <!-- time modified and image -->
         <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
         <meta itemprop="image" content="{{ author.image }}" />
