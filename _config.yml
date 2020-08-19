@@ -8,7 +8,7 @@ favicon: 'assets/images/logo.png'
 logo: 'assets/images/logo.png'
 author-image: 'assets/images/vikramadhiman.jpg'
 url: https://www.vikramadhiman.com
-baseurl: https://www.vikramadhiman.com
+baseurl: /
 google_analytics: 'UA-167500350-1'
 disqus: 'vikramadhiman'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
