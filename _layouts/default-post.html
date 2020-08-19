@@ -62,6 +62,10 @@
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content="{{ modified | date_to_xmlschema }}" />
         <!-- twitter shares default-post.html  -->
+        <meta name ="twitter:card" content="page.title" />
+        <meta name ="twitter:site" content="Vikrama Dhiman's Blog" />
+        <meta name ="twitter:title" content="page.title" />
+        <meta name ="twitter:creator" content="@vikramadhiman" />
         <meta name="twitter:image" content="{{site.baseurl}}/{{ page.image }}" />
         <meta name="twitter:title" content="{{ page.title }}" />
         <!-- time modified and image -->
@@ -71,7 +75,7 @@
 
     <!-- end -->
 
-<title>{{ page.title }} | {{site.name}}</title>
+<!--<title>{{ page.title }} | {{site.name}}</title>-->
 
 <!--{% seo %}-->
 
