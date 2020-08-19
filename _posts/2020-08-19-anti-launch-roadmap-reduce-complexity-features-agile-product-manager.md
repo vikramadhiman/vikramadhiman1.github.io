@@ -10,7 +10,7 @@ date: "2020-08-19 21:00:00 +0530"
 ---
 
 <p style="font-size:24px;" align = "center"><strong>
-	Perfection is achieved when there is nothing left to take away.” ~Antoine de Saint-Exupery
+	Perfection is achieved when there is nothing left to take away. ~Antoine de Saint-Exupery
 </strong>
 </p>
 
