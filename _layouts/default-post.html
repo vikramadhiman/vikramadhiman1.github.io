@@ -57,7 +57,7 @@
     -->
     <p class="post-meta">
         <!-- twitter shares default-post.html  -->
-        <meta itemprop="twitter:image" content="{{ page.image }}" />
+        <meta itemprop="twitter:image" content="{{site.baseurl}}/{{ page.image }}" />
         <meta itemprop="twitter:title" content="{{ page.title }}" />
         <!-- time modified and image -->
         <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
