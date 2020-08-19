@@ -6,6 +6,66 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
+<!-- picked from https://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html -->
+{% assign author = site.data.authors[page.author] %}
+{% if page.date_modified %}
+{% assign modified = page.date_modified %}
+{% else %}
+{% assign modified = page.date %}
+{% endif %}
+
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    
+    <!--
+    <header class="post-header">
+    <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+        <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
+        {% if author %} 
+            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">{{ author.name }}</span>
+                <meta itemprop="email" content="{{ author.email }}" /> 
+                <meta itemprop="image" content="{{ author.image }}" />
+                {% if author.email %}
+                    <a class="fa fa-envelope" title="contact me via e-mail" href="mailto:{{ site.email }}">&nbsp;</a>
+                {% endif %}
+            </span>
+            
+            <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+                <meta itemprop="name" content="{{ site.name }}" />
+                    <span itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+                        <meta itemprop="url" content="{{ site.url }}/favicon.png" />
+                        <meta itemprop="height" content="142" />
+                        <meta itemprop="width" content="128" />
+                    </span>
+                </span>
+            </span>
+        {% endif %}
+
+        <meta itemprop="mainEntityOfPage" content="{{ site.url }}" />
+        <span itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="url" content="{{ site.url }}/favicon.png" />
+            <meta itemprop="height" content="142" />
+            <meta itemprop="width" content="128" />
+        </span>
+        
+        <meta itemprop="twitter:image" content="{{ post:image }}" />
+        <meta itemprop="twitter:title" content="{{ post:title }}" />
+
+    </p>
+    -->
+    <p class="post-meta">
+        <!-- twitter shares -->
+        <meta itemprop="twitter:image" content="{{ post:image }}" />
+        <meta itemprop="twitter:title" content="{{ post:title }}" />
+        <!-- time modified and image -->
+        <meta content="{{ modified | date_to_xmlschema }}" itemprop="dateModified" />
+        <meta itemprop="image" content="{{ author.image }}" />
+    </p>
+
+    <!-- end -->
+
 <!--<title>{{ page.title }} | {{site.name}}</title>-->
 
 {% seo %}

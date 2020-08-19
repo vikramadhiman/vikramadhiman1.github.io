@@ -9,7 +9,7 @@ comments: true
 date: "2020-08-08 21:00:00 +0530"
 ---
 
-<p style="font-size:24px;"><strong>
+<p style="font-size:24px;" align = "center"><strong>
 	Perfection is achieved when there is nothing left to take away.” ~Antoine de Saint-Exupery
 </strong>
 </p>
@@ -21,7 +21,7 @@ date: "2020-08-08 21:00:00 +0530"
 </p>
 The most often cited (sometimes wrongly) example (exhibit above) of this is Apple. Why wrongly? If you see carefully, the goal is not to have more or less of features or product but to be simple. As noted in the book, <a href="https://www.goodreads.com/book/show/13383957-insanely-simple?ac=1&from_search=true&qid=2pZ1ZnqCKx&rank=1">“Insanely Simple: The Obsession That Drives Apple's Success”</a>, Simplicity isn’t just a design principle at Apple—it’s a value that permeates every level of the organization. The obsession with Simplicity is what separates Apple from other technology companies. Simplicity reflects in everything from product lines to features (in 1997, Steven Jobs slashed the number of devices that Apple worked on to 4 using a simple 2*2 grid). 
 
-There are various ways to achieve simplicity and is a topic in itself. In addition to Insanely Simple, it is also useful to read John Maeda’s book <a href="https://www.goodreads.com/book/show/225111.The_Laws_of_Simplicity?ac=1&from_search=true&qid=Bjb3OdmPXf&rank=1">Laws of Simplicity</a>. One of the means of achieving simplicity is reduction i.e. removing features or product lines (the second example from Apple - cutting the product lines to four -  resonates more here). John Maeda’s first law states, “The simplest way to achieve simplicity is through thoughtful reduction.” Iteration and progress also means reduction. Unfortunately, this is a topic scantily covered in product strategy and product roadmaps. However, two frameworks centered on ‘reduction’ are getting some visibility. They are Unlaunching and Anti Launch Roadmaps. 
+There are various ways to achieve simplicity and is a topic in itself. In addition to Insanely Simple, it is also useful to read John Maeda’s book <a href="https://www.goodreads.com/book/show/225111.The_Laws_of_Simplicity?ac=1&from_search=true&qid=Bjb3OdmPXf&rank=1">Laws of Simplicity</a>. One of the means of achieving simplicity is reduction i.e. removing features or product lines (the second example from Apple - cutting the product lines to four -  resonates more here). John Maeda’s first law states, “The simplest way to achieve simplicity is through thoughtful reduction.” Iteration and progress can also be achieved by reduction. Unfortunately, this is a topic scantily covered in product strategy and product roadmaps. However, two frameworks centered on ‘reduction’ or what I call "anti-launch roadmaps" are getting some visibility. They are Unlaunching and Anti Product Roadmaps. 
 
 Hardik Pandya, a Design Lead with Google writes in his post <a href="https://hvpandya.com/unlaunch-manifesto">Unlaunch Manifesto</a>:
 
