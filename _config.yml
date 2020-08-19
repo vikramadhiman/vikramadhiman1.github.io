@@ -24,6 +24,10 @@ authors:
     email: vickydhiman at yahoo dot com
     web: https://vikramadhiman.com
     twitter: https://twitter.com/vikramadhiman
+
+twitter:
+  username: vikramadhiman
+  card: summary
    
 # Plugins
 plugins:
@@ -32,8 +36,6 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
-
-jekyll-seo-tag: "disabled"
     
 # Archives
 jekyll-archives:
