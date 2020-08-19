@@ -6,7 +6,7 @@ categories: [ Product Strategy, Product Management ]
 image: assets/images/posts/grass-cutter.jpg
 featured: true
 comments: true
-date: "2020-08-08 21:00:00 +0530"
+date: "2020-08-19 21:00:00 +0530"
 ---
 
 <p style="font-size:24px;" align = "center"><strong>
