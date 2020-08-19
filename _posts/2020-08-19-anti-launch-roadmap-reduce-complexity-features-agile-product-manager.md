@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Anti Launch Roadmap: Remove Features, Reduce Complexity, Gain Agility"
+title:  "The Anti Launch Product Roadmap: Remove Features, Reduce Complexity, Gain Agility"
 author: vikramadhiman
 categories: [ Product Strategy, Product Management ]
 image: assets/images/posts/grass-cutter.jpg
@@ -21,7 +21,7 @@ date: "2020-08-19 21:00:00 +0530"
 </p>
 The most often cited (sometimes wrongly) example (exhibit above) of this is Apple. Why wrongly? If you see carefully, the goal is not to have more or less of features or product but to be simple. As noted in the book, <a href="https://www.goodreads.com/book/show/13383957-insanely-simple?ac=1&from_search=true&qid=2pZ1ZnqCKx&rank=1">“Insanely Simple: The Obsession That Drives Apple's Success”</a>, Simplicity isn’t just a design principle at Apple—it’s a value that permeates every level of the organization. The obsession with Simplicity is what separates Apple from other technology companies. Simplicity reflects in everything from product lines to features (in 1997, Steven Jobs slashed the number of devices that Apple worked on to 4 using a simple 2*2 grid). 
 
-There are various ways to achieve simplicity and is a topic in itself. In addition to Insanely Simple, it is also useful to read John Maeda’s book <a href="https://www.goodreads.com/book/show/225111.The_Laws_of_Simplicity?ac=1&from_search=true&qid=Bjb3OdmPXf&rank=1">Laws of Simplicity</a>. One of the means of achieving simplicity is reduction i.e. removing features or product lines (the second example from Apple - cutting the product lines to four -  resonates more here). John Maeda’s first law states, “The simplest way to achieve simplicity is through thoughtful reduction.” Iteration and progress can also be achieved by reduction. Unfortunately, this is a topic scantily covered in product strategy and product roadmaps. However, two frameworks centered on ‘reduction’ or what I call "anti-launch roadmaps" are getting some visibility. They are Unlaunching and Anti Product Roadmaps. 
+There are various ways to achieve simplicity and is a topic in itself. In addition to Insanely Simple, it is also useful to read John Maeda’s book <a href="https://www.goodreads.com/book/show/225111.The_Laws_of_Simplicity?ac=1&from_search=true&qid=Bjb3OdmPXf&rank=1">Laws of Simplicity</a>. One of the means of achieving simplicity is reduction i.e. removing features or product lines (the second example from Apple - cutting the product lines to four -  resonates more here). John Maeda’s first law states, “The simplest way to achieve simplicity is through thoughtful reduction.” Iteration and progress can also be achieved by reduction. Unfortunately, this is a topic scantily covered in product strategy and product roadmaps. However, two frameworks centered on ‘reduction’ or what I call "anti-launch product roadmaps" are getting some visibility. They are Unlaunching and Anti Product Roadmaps. 
 
 Hardik Pandya, a Design Lead with Google writes in his post <a href="https://hvpandya.com/unlaunch-manifesto">Unlaunch Manifesto</a>:
 
@@ -43,7 +43,7 @@ The earlier the feature in its development stage, the more likely such a discuss
 
 <p style="padding-left:20px;">Experiments should also include hypotheses around removing features altogether and testing the impact (do customers really care?).  </p>
 
-It is easier to say teams should be empowered and have courage but without the adequate structures and frameworks, it is tough to action this. That’s why I like the idea of reducing operational maintenance and anti-launch roadmaps. I am also excited by the use of data science in tying up relationships between long term and short term metrics (<a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43887.pdf">example from Google</a>) which can help take calls on stopping work on features and relook at problem areas that a feature or solution addressed. 
+It is easier to say teams should be empowered and have courage but without the adequate structures and frameworks, it is tough to action this. That’s why I like the idea of reducing operational maintenance and anti-launch product roadmaps. I am also excited by the use of data science in tying up relationships between long term and short term metrics (<a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43887.pdf">example from Google</a>) which can help take calls on stopping work on features and relook at problem areas that a feature or solution addressed. 
 
 Do you use anti-launch roadmaps or data science models to predict long-term metrics from short-term metrics? If yes, I’d love to Buy Your Coffee. Please reach out <a href="https://linkedin.com/in/vikrama">@vikramadhiman</a>. 
 
