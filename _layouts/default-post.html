@@ -56,6 +56,11 @@
     </p>
     -->
     <p class="post-meta">
+        <meta property="og:image" content="{{site.baseurl}}/{{ page.image }}" />
+        <meta property="og:sitename" content="Vikrama Dhiman's Blog" />
+        <meta property="og:url" content="{{site.baseurl}}" />
+        <meta property="og:type" content="article" />
+        <meta property="article:published_time" content="{{ modified | date_to_xmlschema }}" />
         <!-- twitter shares default-post.html  -->
         <meta itemprop="twitter:image" content="{{site.baseurl}}/{{ page.image }}" />
         <meta itemprop="twitter:title" content="{{ page.title }}" />
@@ -66,9 +71,9 @@
 
     <!-- end -->
 
-<!--<title>{{ page.title }} | {{site.name}}</title>-->
+<title>{{ page.title }} | {{site.name}}</title>
 
-{% seo %}
+<!--{% seo %}-->
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
