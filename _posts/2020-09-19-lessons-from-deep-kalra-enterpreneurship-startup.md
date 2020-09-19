@@ -6,7 +6,7 @@ categories: [ Startups ]
 image: https://en.wikipedia.org/wiki/Deep_Kalra#/media/File:Deep_Kalra.jpeg
 featured: false
 comments: true
-date: "2020-08-19 21:00:00 +0530"
+date: "2020-09-19 21:00:00 +0530"
 ---
 
 <p style="font-size:24px;" align = "center"><strong>
