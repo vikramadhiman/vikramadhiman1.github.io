@@ -39,6 +39,7 @@ A Minimum Usable Product (MUP) is often confused with MVP. However, the two are 
 You can see a <a href="https://medium.com/makesideproject/making-a-side-project-part-3-minimum-usable-product-f11e56b417fd">great explanation and example of MUP here</a>. Let us also take a look at another example -> Google homepage when it was launched September 4, 1998. 
 
 <img src="http://static3.businessinsider.com/image/50c7b16f6bb3f7a26e00000f-590-466/heres-the-orginal-google-search-page-from-1998-pretty-adorably-retro.jpg?maxX=800" alt="Google First Version Screenshot" />
+<em>via BusinessInsider.com</em>
 
 You could argue that I’m feeling lucky, the option to see 10 results/ 25 results and subscribe by email were features added to make the product more ‘marketable’. Archive seems to be the founder's own stamp on the product. The rest of the product is an ideal description of MUP. 
 
@@ -55,6 +56,7 @@ MVP is not a launch product. When you have ideated, built, launched and learned 
 MMP typically is your first big launch. Rather than wait to perfect a full product, you can launch your product early and maybe start getting some traction while still building the full product. This helps you validate your marketing funnels, retention equations and also helps prioritise the rest of the backlog while building a full product. This would help you plan your technical infrastructure incrementally. 
 
 <p align="center"><img src="http://www.romanpichler.com/wp-content/uploads/2013/10/BuildMeasureLearn.jpg" alt ="MMP Build Measure Learn" title ="MMP Build Measure Learn" /></p>
+<em>via RomanPichler.com</em>
 
 The key aspect of MMP is:
 <ul>
@@ -77,6 +79,7 @@ The term “minimum lovable product” was originally coined in 2013 by Henrik K
 A Minimum Lovable Product (MLP), or Minimum Awesome Product (MAP) as Intuit’s founder Scott Cook calls it, is intended “to deliver a solution that is so extraordinary on the most important dimension that it inspires positive emotion in your customers. Laurence McCahill, co-founder of The Startup School, talks about  Minimum Lovable Product (MLP)  instead of “minimum usable product” or “minimum viable product.” The key question to ask here is - do people want to use the product? This is especially important if you are building in a competitive market (that’s almost all of us).
 
 <p align="center"><img src="https://themindstudios.com/blog/content/images/2019/03/4.-Minimum-Lovable-Product.jpg" alt="MLP Emotional Design" title="MLP Emotional Design" /></p>
+<em>via TheMindStudios.com </em>
 
 Like the MVP or the MMP or the MUP, the Minimum Loveable Product (MLP) offers only a fraction of the full product (yet to be built). However, unlike an MVP or MUP which are largely functional in nature, an MLP is designed to be loved right away. The key attribute in MLP is:
 <ul>
