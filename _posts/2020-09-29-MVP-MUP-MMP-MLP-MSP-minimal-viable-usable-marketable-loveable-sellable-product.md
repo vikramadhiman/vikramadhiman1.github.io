@@ -86,5 +86,5 @@ Like the MVP or the MMP or the MUP, the Minimum Loveable Product (MLP) offers on
 If you are defining viability in terms of ‘emotion’ and ‘desirability’ as well, then you perhaps don’t need a separate definition. Words have power, though. I’d recommend teams to use MLP, when they clearly want to call out want, desirability and emotion as part of their launch.
 
 <p id="section2" align="center">
-	<img src="assets/images/posts/MVP-MUP-MMP-MLP.png" />
+	<img src="https://www.vikramadhiman.com/assets/images/posts/MVP-MUP-MMP-MLP.png" />
 </p>
